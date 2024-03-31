@@ -21,7 +21,7 @@ Hello, world!
 $
 ```
 
-== 설치 ==
+## 설치
 
 ```bash
 $ git clone https://github.com/aheui/c2aheui
@@ -32,4 +32,9 @@ $ make -C elvm
 
 $ 
 ```
+
+## 참고
+
+- https://github.com/kiwiyou/palheui - 아희 → C
+- https://github.com/aheui/rpaheui/pull/14 - 아희 → C++
 
