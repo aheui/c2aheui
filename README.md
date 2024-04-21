@@ -35,6 +35,7 @@ $
 
 ## 참고
 
+- https://github.com/Algy/aheui-cc - 아희 → C
 - https://github.com/kiwiyou/palheui - 아희 → C
 - https://github.com/aheui/rpaheui/pull/14 - 아희 → C++
 
